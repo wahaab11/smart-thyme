@@ -62,7 +62,13 @@ params:
   footer:
     type: footer
     content: "&copy; All rights reserved. Wahaab Siddique."
-    links: []
+    links:
+      - style: icon
+        new_window: false
+        type: action
+        url: https://wahaabsiddique.com
+        label: website
+        icon_class: 4.jpg
 taxonomies:
   stub: stub
 disableKinds:
