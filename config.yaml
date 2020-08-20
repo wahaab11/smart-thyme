@@ -36,7 +36,7 @@ params:
         icon_class: fa-dev
         new_window: true
     tagline: ""
-    logo_img: /images/twitter_header_photo_1.png
+    logo_img: /images/logo_transparent.png
     has_social: true
     background_img: /images/img_no_style_20200112_130447_processed.jpg
     title: ""
