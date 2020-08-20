@@ -7,19 +7,19 @@ params:
     social_links:
       - type: action
         label: Twitter
-        url: https://twitter.com/
+        url: https://twitter.com/wahaabsiddique
         style: icon
         icon_class: fa-twitter
         new_window: true
       - type: action
         label: Instagram
-        url: https://www.instagram.com/
+        url: https://www.instagram.com/wahaabsiddique
         style: icon
         icon_class: fa-instagram
         new_window: true
       - type: action
         label: GitHub
-        url: https://github.com/
+        url: https://github.com/wahaab11
         style: icon
         icon_class: fa-github
         new_window: true
@@ -31,12 +31,12 @@ params:
         new_window: true
       - type: action
         label: DEV
-        url: https://dev.to/
+        url: https://dev.to/wahaabsiddique
         style: icon
         icon_class: fa-dev
         new_window: true
     tagline: ""
-    logo_img: /images/logo_transparent.png
+    logo_img: /images/logo_transparent-2-.png
     has_social: true
     background_img: /images/img_no_style_20200112_130447_processed.jpg
     title: ""
