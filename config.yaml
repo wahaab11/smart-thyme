@@ -1,15 +1,46 @@
-title: Stackbit Fjord Theme
+title: Wahaab Siddique
 baseURL: /
 params:
-  description: A minimal blogging theme for Stackbit
-  palette: yellow
+  description: Wahaab Siddique's official website.
+  palette: red
   header:
-    type: header
+    social_links:
+      - type: action
+        label: Twitter
+        url: https://twitter.com/
+        style: icon
+        icon_class: fa-twitter
+        new_window: true
+      - type: action
+        label: Instagram
+        url: https://www.instagram.com/
+        style: icon
+        icon_class: fa-instagram
+        new_window: true
+      - type: action
+        label: GitHub
+        url: https://github.com/
+        style: icon
+        icon_class: fa-github
+        new_window: true
+      - type: action
+        label: LinkedIn
+        url: https://www.linkedin.com/
+        style: icon
+        icon_class: fa-linkedin
+        new_window: true
+      - type: action
+        label: DEV
+        url: https://dev.to/
+        style: icon
+        icon_class: fa-dev
+        new_window: true
+    tagline: ""
+    logo_img: /images/logo_transparent-2-.png
+    has_social: true
+    background_img: /images/img_no_style_20200112_130447_processed.jpg
     title: Fjord
-    tagline: Minimal and clean blog theme
-    logo_img: images/logo.png
-    background_img: images/header-bg.jpg
-    has_nav: true
+    type: header
     nav_links:
       - type: action
         label: Home
@@ -27,47 +58,11 @@ params:
         label: Contact
         url: /contact/
         style: link
-    has_social: true
-    social_links:
-      - type: action
-        label: Twitter
-        url: 'https://twitter.com/'
-        style: icon
-        icon_class: fa-twitter
-        new_window: true
-      - type: action
-        label: Instagram
-        url: 'https://www.instagram.com/'
-        style: icon
-        icon_class: fa-instagram
-        new_window: true
-      - type: action
-        label: GitHub
-        url: 'https://github.com/'
-        style: icon
-        icon_class: fa-github
-        new_window: true
-      - type: action
-        label: LinkedIn
-        url: 'https://www.linkedin.com/'
-        style: icon
-        icon_class: fa-linkedin
-        new_window: true
-      - type: action
-        label: DEV
-        url: 'https://dev.to/'
-        style: icon
-        icon_class: fa-dev
-        new_window: true
+    has_nav: true
   footer:
     type: footer
-    content: '&copy; All rights reserved.'
-    links:
-      - type: action
-        label: Made with Stackbit.
-        url: 'https://www.stackbit.com'
-        style: link
-        new_window: true
+    content: "&copy; All rights reserved. Wahaab Siddique."
+    links: []
 taxonomies:
   stub: stub
 disableKinds:
