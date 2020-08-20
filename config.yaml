@@ -61,14 +61,14 @@ params:
     has_nav: true
   footer:
     type: footer
-    content: "&copy; All rights reserved. Wahaab Siddique."
+    content: "&copy; All rights reserved."
     links:
-      - style: icon
+      - style: link
         new_window: false
         type: action
         url: https://wahaabsiddique.com
-        label: website
-        icon_class: fa-twitter
+        label: Wahaab Siddique
+        icon_class: ""
 taxonomies:
   stub: stub
 disableKinds:
