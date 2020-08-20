@@ -11,6 +11,8 @@ layout: post
 ---
 <!--StartFragment-->
 
+![](/images/1_nexg_tg5v6kpnr512mrrua-1-.jpeg)
+
 Photo: Morsa Images/Getty Images
 
 What’s the fastest way to identify the most intelligent people in a group? Start with an easy question. Then ask a complex one.
