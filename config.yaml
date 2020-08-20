@@ -68,7 +68,7 @@ params:
         type: action
         url: https://wahaabsiddique.com
         label: website
-        icon_class: 4.jpg
+        icon_class: fa-twitter
 taxonomies:
   stub: stub
 disableKinds:
