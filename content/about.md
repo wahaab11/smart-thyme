@@ -14,3 +14,8 @@ His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, E
 As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
 *Thank You for reading!*
+ <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+   <!-- Add a simpler button:
+    Simple button that will open the modal.
+  -->
+  <div data-netlify-identity-button>Login with Netlify Identity</div>
