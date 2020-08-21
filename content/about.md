@@ -29,9 +29,6 @@ As a hobby, John Doe authors the most influential design blog in Sweden with ove
   -->
   <div data-netlify-identity-menu></div>
 
-  <!-- Add a simpler button:
-    Simple button that will open the modal.
-  -->
-  <div data-netlify-identity-button>Login with Netlify Identity</div>
+
 </body>
 </html>
