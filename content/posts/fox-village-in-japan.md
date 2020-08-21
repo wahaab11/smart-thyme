@@ -16,7 +16,7 @@ layout: post
 
 <!--StartFragment-->
 
-<https://res.cloudinary.com/wahaabsiddique/image/upload/v1597989990/IMG_No_style_20200112_130447_processed_ga1od3.jpg>
+
 
 <!--EndFragment-->
 
