@@ -39,7 +39,7 @@ params:
     logo_img: ""
     has_social: true
     background_img: /images/img_no_style_20200112_130447_processed.jpg
-    title: ""
+    title: Wahaab Siddique
     type: header
     nav_links:
       - type: action
