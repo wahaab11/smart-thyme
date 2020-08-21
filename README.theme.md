@@ -25,3 +25,6 @@ While we recommend using the [site builder](https://app.stackbit.com/create?them
 You can also develop this theme in the browser using Unibit via CodeSandbox.
 
 [Fork in CodeSandbox](https://codesandbox.io/s/github/stackbithq/stackbit-theme-fjord)
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ffec417c-0321-456f-9ce9-cf8418f304bc/deploy-status)](https://app.netlify.com/sites/ws11/deploys)
