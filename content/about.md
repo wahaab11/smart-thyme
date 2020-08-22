@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: ""
-img_path: images/about.jpg
+img_path: /images/5.jpg
 layout: page
 ---
 <!--StartFragment-->
