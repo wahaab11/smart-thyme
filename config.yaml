@@ -4,6 +4,7 @@ params:
   description: Wahaab Siddique's official website.
   palette: red
   header:
+  <link rel="icon" type="image/ico" sizes="32x32" href="/favicon.ico">
     social_links:
       - type: action
         label: Twitter
