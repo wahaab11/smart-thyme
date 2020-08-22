@@ -69,6 +69,11 @@ params:
         url: https://wahaabsiddique.com
         label: Wahaab Siddique
         icon_class: ""
+      - style: link
+        new_window: false
+        type: action
+        label: contact@wahaabsiddique.com
+        url: mailto:contact@wahaabsiddique.com
 taxonomies:
   stub: stub
 disableKinds:
