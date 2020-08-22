@@ -2,6 +2,11 @@
 title: Should You Use AWS or Firebase For the Back end of Your Mobile App?
 date: 2020-08-22T19:04:42.120Z
 thumb_img_path: /images/1_a0bdxhaicfheazb1jbinra.png
+excerpt: "One Is Not Better Than the Other One Why? Because the right question
+  to ask is: “Which is the right solution for your requirements?” I have been
+  developing native Android apps for quite a while and have recently started
+  developing mobile applications in Flutter and I have used both Firebase and
+  AWS as back-end services."
 hide_header: false
 layout: post
 ---
