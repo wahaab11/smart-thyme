@@ -61,7 +61,7 @@ params:
     has_nav: true
   footer:
     type: footer
-    content: "&copy; All rights reserved."
+    content: "&copy; All rights reserved. Email: contact@wahaabsiddique.com"
     links:
       - style: link
         new_window: false
@@ -69,11 +69,6 @@ params:
         url: https://wahaabsiddique.com
         label: Wahaab Siddique
         icon_class: ""
-      - style: link
-        new_window: false
-        type: action
-        label: contact@wahaabsiddique.com
-        url: contact@wahaabsiddique.com
 taxonomies:
   stub: stub
 disableKinds:
