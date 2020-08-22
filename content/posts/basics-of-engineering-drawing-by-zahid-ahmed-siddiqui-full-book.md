@@ -11,8 +11,6 @@ layout: post
 ---
 <!--StartFragment-->
 
-
-
 [Click here](https://firebasestorage.googleapis.com/v0/b/encoded-net-131108.appspot.com/o/Basics%20of%20Engineering%20Drawing%20by%20Zahid%20Ahmed%20Siddiqui%20and%20Dr.%20Ashraf%20(2nd%20Edition).pdf?alt=media&token=eb9503b5-b976-417d-9428-bf6e8360b70b) to download the book.
 
 ## Introduction
@@ -81,8 +79,4 @@ There are many times when the interior details of an object cannot be seen from 
 
 Figure 8 - An isometric drawing that does not show all details.
 
-We can get around this by pretending to cut the object on a plane and showing the "sectional view". The sectional view is applicable to objects like engine blocks, where the interior details are intricate and would be very difficult to understand through the use of "hidden" lines (hidden lines are, by convention, dotted) on an orthographic or isometric drawing.
-
-[](https://firebasestorage.googleapis.com/v0/b/encoded-net-131108.appspot.com/o/Basics%20of%20Engineering%20Drawing%20by%20Zahid%20Ahmed%20Siddiqui%20and%20Dr.%20Ashraf%20(2nd%20Edition).pdf?alt=media&token=eb9503b5-b976-417d-9428-bf6e8360b70b)
-
-<!--EndFragment-->
+We can get around this by pretending to cut the object on a plane and showing the "sectional view". The sectional view is applicable to objects like engine blocks, where the interior details are intricate and would be very difficult to understand through the use of "hidden" lines (hidden lines are, by convention, dotted) on an orthographic or isometric drawing.<!--EndFragment-->
