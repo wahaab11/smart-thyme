@@ -241,4 +241,8 @@ Photo by [James Pond](https://unsplash.com/@jamesponddotco?utm_source=medium&utm
 
 There you go! I hope this helps you make the right decisions and ask better questions when you are trying to architect your application.
 
+
+
+Republished from : <https://medium.com/better-programming/should-you-use-aws-or-firebase-for-the-back-end-of-your-mobile-app-a28f93540520>
+
 <!--EndFragment-->
