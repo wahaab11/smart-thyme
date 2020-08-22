@@ -18,6 +18,10 @@ layout: post
 ---
 <!--StartFragment-->
 
+
+
+[Click here](https://firebasestorage.googleapis.com/v0/b/encoded-net-131108.appspot.com/o/Basics%20of%20Engineering%20Drawing%20by%20Zahid%20Ahmed%20Siddiqui%20and%20Dr.%20Ashraf%20(2nd%20Edition).pdf?alt=media&token=eb9503b5-b976-417d-9428-bf6e8360b70b) to download the book.
+
 ## Introduction
 
 One of the best ways to communicate one's ideas is through some form of picture or drawing. This is especially true for the engineer. The purpose of this guide is to give you the basics of engineering sketching and drawing.
@@ -52,19 +56,13 @@ Figure 3 - The block suspended in a glass box.
 
 Then draw the object on each of three faces as seen from that direction. Unfold the box (figure 4) and you have the three views. We call this an "orthographic" or "multiview" drawing.
 
-
-
 ![](https://ocw.mit.edu/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_04.jpg)
 
 Figure 4 - The creation of an orthographic multiview drawing.
 
-
-
 ![](https://ocw.mit.edu/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_05.jpg)
 
 Figure 5 - A multiview drawing and its explanation.
-
-
 
 Which views should one choose for a multiview drawing? The views that reveal every detail about the object. Three views are not always necessary; we need only as many views as are required to describe the object fully. For example, some objects need only two views, while others need four. The circular object in figure 6 requires only two views.
 
@@ -72,15 +70,11 @@ Which views should one choose for a multiview drawing? The views that reveal eve
 
 Figure 6 - An object needing only two orthogonal views.
 
-
-
 ## [](<>)Dimensioning
 
 ![](https://ocw.mit.edu/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_07.jpg)
 
 Figure 7 - An isometric view with dimensions.
-
-
 
 We have "dimensioned" the object in the isometric drawing in figure 7. As a general guideline to dimensioning, try to think that you would make an object and dimension it in the most useful way. Put in exactly as many dimensions as are necessary for the craftsperson to make it -no more, no less. Do not put in redundant dimensions. Not only will these clutter the drawing, but if "tolerances" or accuracy levels have been included, the redundant dimensions often lead to conflicts when the tolerance allowances can be added in different ways.
 
@@ -96,8 +90,6 @@ Figure 8 - An isometric drawing that does not show all details.
 
 We can get around this by pretending to cut the object on a plane and showing the "sectional view". The sectional view is applicable to objects like engine blocks, where the interior details are intricate and would be very difficult to understand through the use of "hidden" lines (hidden lines are, by convention, dotted) on an orthographic or isometric drawing.
 
-
-
-[Click here](https://firebasestorage.googleapis.com/v0/b/encoded-net-131108.appspot.com/o/Basics%20of%20Engineering%20Drawing%20by%20Zahid%20Ahmed%20Siddiqui%20and%20Dr.%20Ashraf%20(2nd%20Edition).pdf?alt=media&token=eb9503b5-b976-417d-9428-bf6e8360b70b) to download the book.
+[](https://firebasestorage.googleapis.com/v0/b/encoded-net-131108.appspot.com/o/Basics%20of%20Engineering%20Drawing%20by%20Zahid%20Ahmed%20Siddiqui%20and%20Dr.%20Ashraf%20(2nd%20Edition).pdf?alt=media&token=eb9503b5-b976-417d-9428-bf6e8360b70b)
 
 <!--EndFragment-->
