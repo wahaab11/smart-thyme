@@ -3,8 +3,12 @@ baseURL: /
 params:
   description: Wahaab Siddique's official website.
   palette: red
+  favicon:
+  title: Wahaab Siddique
+  icon_path: /images/favicon.ico
+  
   header:
-  <link rel="icon" type="image/ico" sizes="32x32" href="/favicon.ico">
+ 
     social_links:
       - type: action
         label: Twitter
