@@ -1,34 +1,39 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
+subtitle: ""
 img_path: images/about.jpg
 layout: page
 ---
+<!--StartFragment-->
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**👨🏾‍💻 Basic Information**
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Name: Wahaab Siddique
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Job Title: Student
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Nationality: Pakistani
 
-*Thank You for reading!*
+Pronouns: He/Him
 
-<html>
-<head>
-  <title>A static website</title>
+**🌍 Links**
 
-  <!-- include the widget -->
-  <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-</head>
-<body>
-  <!-- Add a menu:
-   Log in / Sign up - when the user is not logged in
-   Username / Log out - when the user is logged in
-  -->
-  <div data-netlify-identity-menu></div>
+[Blog](https://wahaabsiddique.com/)
 
+[GitHub](https://github.com/wahaab11)
 
-</body>
-</html>
+[Hashnode](https://hashnode.com/@WahaabSiddique)
+
+[Instagram](https://instagram.com/wahaabsiddique)
+
+[DEV.TO](https://dev.to/wahaabsiddique)
+
+[Twitter](https://twitter.com/wahaabsiddique)
+
+**📘 Biography**
+
+Short
+
+My name is Wahaab Siddique, and I'm the founder and CEO of this website. Along with this, I am a student of Civil Engineering.
+
+<!--EndFragment-->
