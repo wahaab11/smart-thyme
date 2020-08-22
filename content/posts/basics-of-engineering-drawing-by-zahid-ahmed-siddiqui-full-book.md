@@ -2,17 +2,10 @@
 title: Basics of Engineering Drawing by Zahid Ahmed Siddiqui full book
 date: 2020-08-22T19:13:18.360Z
 thumb_img_path: /images/basics-of-engineering-drawing-by-zahid-ahmed-siddiqui.png
-excerpt: Introduction One of the best ways to communicate one's ideas is through
-  some form of picture or drawing. This is especially true for the engineer. The
-  purpose of this guide is to give you the basics of engineering sketching and
-  drawing.  We will treat "sketching" and "drawing" as one. "Sketching"
-  generally means freehand drawing. "Drawing" usually means using drawing
-  instruments, from compasses to computers to bring precision to the
-  drawings.  This is just an introduction. Don't worry about understanding every
-  detail right now - just get a general feel for the language of graphics.  We
-  hope you like the object in Figure 1, because you'll be seeing a lot of it.
-  Before we get started on any technical drawings, let's get a good look at this
-  strange block from several angles.
+excerpt: "Introduction One of the best ways to communicate one's ideas is
+  through some form of picture or drawing. This is especially true for the
+  engineer. The purpose of this guide is to give you the basics of engineering
+  sketching and drawing.  We will treat \"sketching\" and \"drawing\" as one. "
 hide_header: false
 layout: post
 ---
