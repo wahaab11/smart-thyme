@@ -12,6 +12,18 @@ params:
     meta_twitter_site = "@wahaabsiddique"
     meta_twitter_creator = "@wahaabsidique"
 
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-77218107-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-77218107-6');
+</script>
+
+
 google_analytics_id = "UA-77218107-6"
   description: Wahaab Siddique's official website.
   palette: red
