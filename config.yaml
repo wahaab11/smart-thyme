@@ -2,29 +2,6 @@ title: Wahaab Siddique
 baseURL: /
 params:
 
-  [params.homepage_meta_tags]
-    meta_description = "Welcome to the official website of Wahaab Siddique."
-    meta_og_title = "Wahaab Siddique"
-    meta_og_type = "website"
-    meta_og_url = "https://wahaabsiddique.com"
-    meta_og_description = "Welcome to the official website of Wahaab Siddique."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@wahaabsiddique"
-    meta_twitter_creator = "@wahaabsidique"
-
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-77218107-6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-77218107-6');
-</script>
-
-
-google_analytics_id = "UA-77218107-6"
   description: Wahaab Siddique's official website.
   palette: red
   favicon:
